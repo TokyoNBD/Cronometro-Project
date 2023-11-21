@@ -1,0 +1,37 @@
+body {
+    background:linear-gradient(to left, red, blue);
+}
+
+.conteiner, h1 {
+    text-align: center;
+    color: rgb(255, 177, 177);
+    text-shadow: 5px 5px 5px black;
+}
+
+#começar {
+    background-color: blueviolet;
+    color: #81c3fd;
+    font-size: 20px;
+}
+
+hr {
+    background: linear-gradient(to right, #00c3ff, #8502ff, #ffa600); /* Gradiente horizontal */
+    border:none;
+    height: 7px;
+}
+
+select {
+    background-color: #beafff;
+    font-size: 20px;
+    box-shadow: 5px 5px 5px black;
+
+}
+
+h6 {
+    font-size: 20px;
+    color: rgb(168, 245, 245);
+    font-family: cursive;
+    margin-top: 270px;
+    margin-left: 1200px;
+    text-decoration: line-through;
+}
